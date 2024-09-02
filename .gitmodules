@@ -4,3 +4,4 @@
 [submodule "src/mina"]
 	path = src/mina
 	url = https://github.com/chris-chris/mina.git
+	branch = develop
